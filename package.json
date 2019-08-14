@@ -1,7 +1,7 @@
 {
   "name": "influxdb-nodejs",
   "description": "node.js influxdb client",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "author": "Tree Xie <vicansocanbico@gmail.com>",
   "keywords": [
     "influx",
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "influx-ql": "^2.9.0",
+    "influx-ql": "^2.10.0",
     "lodash": "^4.17.11",
     "nano-seconds": "^1.2.2",
     "superagent": "^3.8.3",
@@ -40,6 +40,6 @@
     "eslint-plugin-react": "^7.12.4",
     "jsdoc": "^3.5.5",
     "mocha": "^6.0.2",
-    "nyc": "^13.3.0"
+    "nyc": "^14.1.0"
   }
 }
